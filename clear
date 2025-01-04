@@ -1,0 +1,50 @@
+[33mcommit f642457522ec0cadab1c51d715a59c05bf71d3ac[m[33m ([m[1;36mHEAD -> [m[1;32mtemp[m[33m)[m
+Author: Anil <anil6996f@gmail.com>
+Date:   Sat Jan 4 13:28:30 2025 +0530
+
+    4
+
+[33mcommit 6095aa4b2866d2d26c177a6607809c4e29f89a90[m
+Author: Anil <anil6996f@gmail.com>
+Date:   Sat Jan 4 13:28:13 2025 +0530
+
+    3
+
+[33mcommit 82a587fecda910383457554b5ec52da494ebe091[m
+Author: Anil <anil6996f@gmail.com>
+Date:   Sat Jan 4 13:27:56 2025 +0530
+
+    2
+
+[33mcommit cf0190ec61a82514a0dae6b54cc423c680a34618[m
+Author: Anil <anil6996f@gmail.com>
+Date:   Sat Jan 4 13:27:33 2025 +0530
+
+    1
+
+[33mcommit 3fdff75ccf31b779787919c137e233e3f7dd31c3[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Anil-Kumar-Test <anilachu911@gmail.com>
+Date:   Sat Jan 4 12:45:39 2025 +0530
+
+    Create README.md
+
+[33mcommit 59bc5c2eed617a62d09f84a55463ba07933777fe[m
+Merge: 29237b2 24a42a3
+Author: Anil-Kumar-Test <anilachu911@gmail.com>
+Date:   Sat Jan 4 12:32:10 2025 +0530
+
+    Merge pull request #1 from Anil-Kumar-TP/anil
+    
+    anil added a message
+
+[33mcommit 24a42a3f101f4c1f65d1f60002532f13c92c8c1b[m[33m ([m[1;31morigin/anil[m[33m, [m[1;32manil[m[33m)[m
+Author: Anil <anil6996f@gmail.com>
+Date:   Sat Jan 4 11:55:28 2025 +0530
+
+    anil added a message
+
+[33mcommit 29237b264f118553f39f8c2b37b2792b1e36e91f[m
+Author: Anil-Kumar-Test <anilachu911@gmail.com>
+Date:   Sat Jan 4 11:21:13 2025 +0530
+
+    Create names.txt
